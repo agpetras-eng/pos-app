@@ -1,0 +1,9 @@
+.env
+.DS_Store
+/vendor/
+/writable/*
+!/writable/.htaccess
+!/writable/index.html
+/public/uploads/avatars/*
+/public/uploads/thumbs/*
+!.gitkeep
